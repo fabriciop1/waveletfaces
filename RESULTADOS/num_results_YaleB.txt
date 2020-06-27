@@ -1,0 +1,38 @@
+ORL
+
+Level 1
+W         - 103 * 4 = 412 results
+W+PCA     - 103 * 4 = 412 results
+W+LDA     - 103 * 4 = 412 results
+W+PCA+LDA - 103 * 4 = 412 results
+TOTAL - 1648
+
+Level 2
+W         - 78 * 4 = 312 results
+W+PCA     - 78 * 4 = 312 results
+W+LDA     - 77 * 4 = 308 results
+W+PCA+LDA - 78 * 4 = 312 results
+TOTAL - 1244
+
+Level 3
+W         - 55 * 4 = 220 results
+W+PCA     - 55 * 4 = 220 results
+W+LDA     - 55 * 4 = 220 results
+W+PCA+LDA - 55 * 4 = 220 results
+TOTAL - 880
+
+Level 4
+W         - 27 * 4 = 108 results
+W+PCA     - 27 * 4 = 108 results
+W+LDA     - 27 * 4 = 108 results
+W+PCA+LDA - 27 * 4 = 108 results
+TOTAL - 432
+
+Level 5
+W         - 15 * 4 = 60 results
+W+PCA     - 15 * 4 = 60 results
+W+LDA     - 15 * 4 = 60 results
+W+PCA+LDA - 15 * 4 = 60 results
+TOTAL - 240
+
+TOTAL - 4.444

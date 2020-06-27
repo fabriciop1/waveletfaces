@@ -1,0 +1,37 @@
+AR
+Level 1 
+W         - 90 * 4 = 360 results
+W+PCA     - 90 * 4 = 360 results
+W+LDA     - 90 * 4 = 360 results
+W+PCA+LDA - 90 * 4 = 360 results
+TOTAL - 1440
+
+Level 2 
+W         - 65 * 4 = 260 results
+W+PCA     - 65 * 4 = 260 results
+W+LDA     - 62 * 4 = 248 results
+W+PCA+LDA - 65 * 4 = 260 results
+TOTAL - 1028
+
+Level 3 
+W         - 42 * 4 = 168 results
+W+PCA     - 42 * 4 = 168 results
+W+LDA     - 41 * 4 = 164 results
+W+PCA+LDA - 42 * 4 = 168 results
+TOTAL - 668
+
+Level 4
+W         - 19 * 4 = 76 results
+W+PCA     - 19 * 4 = 76 results
+W+LDA     - 19 * 4 = 76 results
+W+PCA+LDA - 19 * 4 = 76 results
+TOTAL - 304
+
+Level 5
+W	  - 8 * 4 = 32 results
+W+PCA	  - 8 * 4 = 32 results
+W+LDA     - 8 * 4 = 32 results
+W+PCA+LDA - 8 * 4 = 32 results
+TOTAL -  128
+
+TOTAL - 3568

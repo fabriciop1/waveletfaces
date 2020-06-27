@@ -1,0 +1,37 @@
+Essex
+Level 1 
+W         - 104 * 4 = 416 results
+W+PCA     - 104 * 4 = 416 results
+W+LDA     - 100 * 4 = 400 results
+W+PCA+LDA - 104 * 4 = 416 results
+TOTAL - 1648
+
+Level 2
+W         - 80 * 4 = 320 results
+W+PCA     - 80 * 4 = 320 results
+W+LDA     - 66 * 4 = 264 results
+W+PCA+LDA - 80 * 4 = 320 results
+TOTAL - 1224
+
+Level 3
+W         - 55 * 4 = 220 results
+W+PCA     - 55 * 4 = 220 results
+W+LDA     - 8 * 4 = 32 results
+W+PCA+LDA - 55 * 4 = 220 results
+TOTAL - 692
+
+Level 4 
+W         - 34 * 4 = 136 results
+W+PCA     - 34 * 4 = 136 results
+W+LDA     - 33 * 4 = 132 results
+W+PCA+LDA - 34 * 4 = 136 results
+TOTAL - 540
+
+Level 5
+W         - 15 * 4 = 60 results
+W+PCA     - 15 * 4 = 60 results
+W+LDA     - 15 * 4 = 60 results
+W+PCA+LDA - 15 * 4 = 60 results
+TOTAL - 240
+
+TOTAL - 4344

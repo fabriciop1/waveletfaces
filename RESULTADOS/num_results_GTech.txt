@@ -1,0 +1,37 @@
+GTech
+Level 1 
+W         - 101 * 4 = 404 results
+W+PCA     - 101 * 4 = 404 results
+W+LDA     - 101 * 4 = 404 results
+W+PCA+LDA - 101 * 4 = 404 results
+TOTAL - 1616
+
+Level 2
+W         - 74 * 4 = 296 results
+W+PCA     - 74 * 4 = 296 results
+W+LDA     - 73 * 4 = 292 results
+W+PCA+LDA - 74 * 4 = 296 results
+TOTAL - 1180
+
+Level 3
+W         - 49 * 4 = 196 results
+W+PCA     - 49 * 4 = 196 results
+W+LDA     - 49 * 4 = 196 results
+W+PCA+LDA - 49 * 4 = 196 results
+TOTAL - 784
+
+Level 4
+W         - 27 * 4 = 108 results
+W+PCA     - 27 * 4 = 108 results
+W+LDA     - 27 * 4 = 108 results
+W+PCA+LDA - 27 * 4 = 108 results
+TOTAL - 432
+
+Level 5
+W         - 8 * 4 = 32 results
+W+PCA     - 8 * 4 = 32 results
+W+LDA     - 8 * 4 = 32 results
+W+PCA+LDA - 8 * 4 = 32 results
+TOTAL - 128
+
+TOTAL - 4.140
