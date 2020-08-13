@@ -36,13 +36,13 @@ Imagem original (esquerda) e decomposição em um nível pela DWT (direita) com 
 
 ## Bases de Dados Consideradas
 
-* ORL 
-* AR Face Database
-* Essex Faces95
-* Yale B Face Dataset
-* Georgia Tech Face Dataset
-* LFW - Labeled Faces in The Wild
-* CASIA-WebFace
+* [ORL](http://cam-orl.co.uk/facedatabase.html) 
+* [AR Face Database](http://www2.ece.ohio-state.edu/~aleix/ARdatabase.html)
+* [Essex Faces95](https://cswww.essex.ac.uk/mv/allfaces/faces95.html)
+* [Yale B Face Dataset](http://vision.ucsd.edu/~leekc/ExtYaleDatabase/ExtYaleB.html)
+* [Georgia Tech Face Dataset](http://www.anefian.com/research/face_reco.htm)
+* [LFW - Labeled Faces in The Wild](http://vis-www.cs.umass.edu/lfw/)
+* [CASIA-WebFace](https://drive.google.com/open?id=1Of_EVz-yHV7QVWQGihYfvtny9Ne8qXVz)
 
 As funções wavelets que maximizam a acurácia para a tarefa de reconhecimento são então avaliadas com um intervalo de confiança de 95%.
 Foram consideradas mais de 4.000.000 de taxas de acurácia média para avaliação e os experimentos mostraram que algumas dessas funções não são adequadas para a tarefa.
