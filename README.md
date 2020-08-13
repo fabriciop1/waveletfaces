@@ -48,5 +48,3 @@ As funções wavelets que maximizam a acurácia para a tarefa de reconhecimento 
 Foram consideradas mais de 4.000.000 de taxas de acurácia média para avaliação e os experimentos mostraram que algumas dessas funções não são adequadas para a tarefa.
 No entanto, outras funções são significativamente diferentes para os testes específicos considerados na pesquisa.
 A função wavelet rbio3.1 da família Reverse Biorthogonal foi a que mais apresentou resultados de acurácia mais altos se comparada com as outras funções.
-
- - Algumas das bases de dados são disponíveis no link: https://drive.google.com/file/d/0B8NpXrXvc_i5LXBYRlBzYlBJdFU/view
