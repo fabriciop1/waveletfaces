@@ -23,7 +23,7 @@ com 5 classes diferentes da base de dados Georgia Tech (topo).
 
 ![eigenfisher](pics/eigenfisher.jpg)<br/>  
 
-Imagem original (esquerda) e decomposição em um nível (direita) pela DWT com haar (topo-esquerda), bior3.7 (baixo-esquerda), db5 (topo-direita) e sym16 (baixo-direita).
+Imagem original (esquerda) e decomposição em um nível pela DWT (direita) com as funções de haar (topo-esquerda), bior3.7 (baixo-esquerda), db5 (topo-direita) e sym16 (baixo-direita).
 
 ![waveletfaces](pics/Waveletfaces.jpg)<br/>
 
