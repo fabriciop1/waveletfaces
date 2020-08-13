@@ -1,4 +1,4 @@
-# Uma análise extensiva de funções wavelet para a tarefa de reconhecimento facial
+# Uma análise extensa de funções wavelet para a tarefa de reconhecimento facial
 
 Esse projeto foi parte do trabalho de conclusão de curso na Universidade Federal Rural de Pernambuco
 
