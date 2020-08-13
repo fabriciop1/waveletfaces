@@ -18,7 +18,7 @@ Um total de 4 classificadores foram utilizados para medir a capacidade do métod
 * Linear Discriminant Analysis (LDA) 
 * Discrete Wavelet Transform (DWT) 
 
-![index](index.gif)<br/>
+![eigenfisher](pics/eigenfisher.jpg)<br/>
 
 ## Classificadores Utilizados
 
