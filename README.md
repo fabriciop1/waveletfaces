@@ -82,7 +82,7 @@ A função wavelet rbio3.1 da família Reverse Biorthogonal foi a que mais apres
   * Bases de dados com imagens alinhadas e cortadas com detecção da face.
   
 Primeiro, tenha certeza que as bibliotecas sklearn, pywt, cv2, csv, numpy e math estão instaladas corretamente.
-Caso não esteja, instale-as utilizando o pip pela linha de comando, onde <library> é qualquer uma das bibliotecas descritas:
+Caso não esteja, instale-as utilizando o pip pela linha de comando, onde `<library>` é qualquer uma das bibliotecas descritas:
 
 ```bash
 pip install <library>
