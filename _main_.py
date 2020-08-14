@@ -131,13 +131,7 @@ def findBestFamilies(level, pcaM, methodLda):
 
     classifiers = ["RFC", "KNN", "GNB", "SVC"]
     start_time = timeit.default_timer()
-    ##a = pywt.wavelist(kind="discrete")
-    a = ['rbio3.1', 'sym3', 'rbio4.4']
-##    b = a[:]
-##    for i in a:
-##        if i == "rbio3.9":
-##            break
-##        b.remove(i)
+    a = pywt.wavelist(kind="discrete")
 
     for i in a:
         try:
@@ -178,8 +172,7 @@ if __name__ == "__main__":
     print("Start Time: ", time.ctime())
     util = Util()
     holdouts = 1
-    files = ["CASIA.txt"]
-    #files = ["AR.txt", "YaleB.txt", "ORL.txt", "GTech.txt", "faces95.txt"]  # bases de dados
+    files = ["AR.txt", "YaleB.txt", "ORL.txt", "GTech.txt", "faces95.txt", "CASIA.txt", "YTBFaces.txt", "LFW.txt"]  # bases de dados
     pcaM = [False, True]                   # Waveletfaces + PCA?
     methodLda = [False, True]              # Wavveletfaces + LDA?
 
@@ -187,10 +180,9 @@ if __name__ == "__main__":
     for i in range(0, len(files)):
         File = files[i]
 
-        for j in range(4, 6):
+        for j in range(1, 6):
             for k in pcaM:
                 for l in methodLda: 
-                    if k == False or l == False: continue
                     write_file = open("%s_halfTraining_lvl%s_pca_%s_lda_%s.csv" % (File, j, k, l), "wb")
                     writer = csv.writer(write_file, delimiter = ";")
                     print("\nFile -", File, "half treino ||", " level =", j, "|| pcaM =", k, "|| methodLda =", l)
