@@ -87,6 +87,9 @@ Caso não esteja, instale-as utilizando o pip pela linha de comando, onde `<libr
 ```bash
 pip install <library>
 ```
+
+### Execução
+
 No arquivo `training_test_divider.py` modifique o número de classes da base de dados avaliada e quantos holdouts separar para treino e teste para o algoritmo.
 Modifique também o caminho da base de dados no sistema. Por padrão, 33% das imagens de cada classe são consideradas para treino e o restante para testes.
 Porém, caso deseje mais ou menos, basta alterar a linha 52.
